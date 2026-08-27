@@ -5,10 +5,10 @@ content:
     type: collection
     path: pages
     filename: 
-      template: "{file-name}.md"
+      template: "{{title | slugify }}.md"
       field: true
     view:
-      fields: [title, date, filename]
+      fields: [title, filename, date]
     fields:
       - name: title
         label: Title
