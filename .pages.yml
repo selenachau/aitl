@@ -5,6 +5,8 @@ content:
     type: collection
     path: pages
     filename: "{file-name}.md"
+    view:
+      fields: [title, date, file-name]
     fields:
       - name: title
         label: Title
