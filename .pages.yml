@@ -4,7 +4,9 @@ content:
     label: Pages
     type: collection
     path: pages
-    filename: "{slug}.md"
+    filename: 
+      template: "{file-name}.md"
+      field: true
     view:
       fields: [title, date, file-name]
     fields:
