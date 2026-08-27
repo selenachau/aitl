@@ -8,7 +8,7 @@ content:
       template: "{{title | slugify }}.md"
       field: true
     view:
-      fields: [title, filename, date]
+      fields: [title, __filename, date]
     fields:
       - name: title
         label: Title
