@@ -6,6 +6,8 @@ date: 2026-08-27
 
 Save the Date: AITL27 will be May 16 – 19, 2027.
 
+[test link](2026-08-27-test-page.md)
+
 ## **What is The Acquisitions Institute?**
 
 The Acquisitions Institute at Timberline Lodge (AITL) has been providing a unique opportunity for acquisitions and collection development librarians, vendors, and publishers to meet and discuss pertinent trends and issues in libraries since 2000.
