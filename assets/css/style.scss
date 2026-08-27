@@ -1,0 +1,27 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* PDF Links */
+a[href$=".pdf"]::after {
+  content: " (PDF)";
+  font-size: 0.8em;
+  color: #555;
+}
+
+/* PowerPoint Links */
+a[href$=".ppt"]::after,
+a[href$=".pptx"]::after {
+  content: " (PPT)";
+  font-size: 0.8em;
+  color: #555;
+}
+
+/* Word Document Links */
+a[href$=".doc"]::after,
+a[href$=".docx"]::after {
+  content: " (Doc)";
+  font-size: 0.8em;
+  color: #555;
+}
