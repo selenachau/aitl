@@ -4,9 +4,13 @@ content:
     label: Pages
     type: collection
     path: pages
+    filename: "{file-name}.md"
     fields:
       - name: title
         label: Title
+        type: string
+      - name: file-name
+        label: file-name
         type: string
       - name: date
         label: Publish Date
