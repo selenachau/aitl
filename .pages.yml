@@ -3,9 +3,11 @@ content:
   - name: pages
     label: Pages
     type: collection
-    path: content/pages
+    path: pages
     fields:
       - name: title
         type: string
       - name: body
         type: rich-text
+        options:
+          format: html
