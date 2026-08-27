@@ -8,7 +8,7 @@ content:
       template: "{file-name}.md"
       field: true
     view:
-      fields: [title, date, file-name]
+      fields: [title, date, filename]
     fields:
       - name: title
         label: Title
