@@ -41,6 +41,4 @@ Damon Campbell, University of Oregon
 Selena Chau, University of California Santa Barbara
 Kasia Stasik, Harrassowitz
 Allyson Rodriguez, EBSCO
-```
-The final element.
-```
+
