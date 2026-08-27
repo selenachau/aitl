@@ -18,3 +18,4 @@ content:
         type: reference
         options:
           collection: pages
+          search: "name,fields.body"
