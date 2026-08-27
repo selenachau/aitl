@@ -1,6 +1,8 @@
 title: Acquisitions Institute at Timberline Lodge
 theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 logo: /assets/img/AITL_LOGOS_Blue.png
-description: The Acquisitions Institute, held at the Timberline Lodge in Oregon, is a three-day conference focusing on the methods and innovation of building and managing library collections.
-show_downloads: true
-google_analytics:
+description: A three-day conference focusing on the methods and innovation of building and managing library collections.
+show_downloads: false
+plugins:
+- jekyll-remote-theme
