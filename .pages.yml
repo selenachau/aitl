@@ -14,3 +14,7 @@ content:
       - name: body
         label: Content
         type: rich-text
+      - name: related_page
+        type: reference
+        options:
+          collection: pages
