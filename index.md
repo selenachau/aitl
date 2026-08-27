@@ -36,9 +36,9 @@ Topics we and/or prior year’s attendees are interested in include (in no parti
 In the interest of keeping everyone safe, the Institute will adhere to local, state, and federal health and safety protocols related to COVID-19.
 
 ## Planning Committee
-Arthur Aguilera, University of Colorado Boulder
-Damon Campbell, University of Oregon
-Selena Chau, University of California Santa Barbara
-Kasia Stasik, Harrassowitz
-Allyson Rodriguez, EBSCO
+Arthur Aguilera, University of Colorado Boulder<br>
+Damon Campbell, University of Oregon<br>
+Selena Chau, University of California Santa Barbara<br>
+Kasia Stasik, Harrassowitz<br>
+Allyson Rodriguez, EBSCO<br>
 
