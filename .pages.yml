@@ -13,9 +13,6 @@ content:
       - name: title
         label: Title
         type: string
-      - name: file-name
-        label: file-name
-        type: string
       - name: date
         label: Publish Date
         type: date
