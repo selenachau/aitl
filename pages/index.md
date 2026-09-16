@@ -7,6 +7,7 @@ date: 2026-08-27
 Save the Date: AITL27 will be May 16 – 19, 2027.
 
 [test link](2026-08-27-test-page.md)
+[link to page in folder](test/test-page.md)
 
 ## **What is The Acquisitions Institute?**
 
