@@ -2,7 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
-
+a, a:link, a:visited, a:hover, a:active {
+  text-decoration: underline;
+}
 /* PDF Links */
 a[href$=".pdf"]::after {
   content: " (PDF)";
