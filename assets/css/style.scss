@@ -12,6 +12,10 @@ a[href$=".pdf"]::after {
   color: #555;
 }
 
+h3 {
+  color: blue;
+}
+
 /* PowerPoint Links */
 a[href$=".ppt"]::after,
 a[href$=".pptx"]::after {
