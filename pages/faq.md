@@ -12,11 +12,20 @@ Join our mailing list to ensure you receive all the updates. The sign up is unde
 
 ### Conference FAQs
 
-#### WHAT IS The Acquisitions Institute?<details name="what-is-aitl">
-<p>- Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge.</p> 
-<p>- A three-day conference focusing on the methods and innovation of building and managing library collections. </p>
-<p>- A small (capped at 80 attendees), informal and stimulating gathering in a convivial and glorious Pacific Northwest setting.</p></details>
-#### WHAT TOPICS are we looking for?<details name="what-topics">
+<div class="accordion">
+  <h3>
+    <button id="what-is-aitl" aria-expanded="true"
+            aria-controls="panel-what-is-aitl">
+      WHAT IS The Acquisitions Institute?
+    </button>
+  </h3>
+  <div id="panel-what-is-aitl" role="region" aria-labelledby="what-is-aitl">
+    <ul><li>Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge.</li> 
+    <li>A three-day conference focusing on the methods and innovation of building and managing library collections.</li>
+    <li>A small (capped at 80 attendees), informal and stimulating gathering in a convivial and glorious Pacific Northwest setting.</li></ul>
+  </div>
+</div>
+#### WHAT TOPICS are we looking for?
 <p>Topics we and/or prior year's attendees are interested in include (in no particular order):</p>
 Assessment tools, methods, and projects (e.g., linking collections with learning outcomes; usage studies)<br/>
 Collection strategies including new models for selection and managing liaison programs <br/>
@@ -30,7 +39,7 @@ Innovative vendor-librarian relationships and/or partnerships <br/>
 Staffing, training and development, and recruiting issues, challenges, successes (e.g., onboarding new acquisitions and/or collections staff) <br/>
 Using data visualization techniques to tell our stories (e.g., budget, collections, staff successes, etc.) 
 Impacts of Open initiatives on acquisitions and collection development <br/>
-Data curation, including Big Data, and management and other new roles for subject and technical services librarians <br/></details>
+Data curation, including Big Data, and management and other new roles for subject and technical services librarians <br/>
 How Generative AI impacts our work
 #### What makes the Acquisitions Institute a different kind of library conference?
 
