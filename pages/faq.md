@@ -21,19 +21,19 @@ Join our mailing list to ensure you receive all the updates. The sign up is unde
 
 Topics we and/or prior year's attendees are interested in include (in no particular order):
 
-Assessment tools, methods, and projects (e.g., linking collections with learning outcomes; usage studies)  
-Collection strategies including new models for selection and managing liaison programs   
-Government, special, and academic library perspectives in acquisitions and collection development   
-Sustainable models for publishing/pricing   
-Effective management of collections with constrained resources   
-Vendor and publisher evaluation, including business skills to determine financial viability   
-Diversity, inclusion, representation, and social justice in acquisitions and collections   
-Negotiation skills and how to use them, including during library-vendor and library-publisher meetings   
-Innovative vendor-librarian relationships and/or partnerships   
-Staffing, training and development, and recruiting issues, challenges, successes (e.g., onboarding new acquisitions and/or collections staff)   
-Using data visualization techniques to tell our stories (e.g., budget, collections, staff successes, etc.) Impacts of Open initiatives on acquisitions and collection development   
-Data curation, including Big Data, and management and other new roles for subject and technical services librarians   
-How Generative AI impacts our work 
+- Assessment tools, methods, and projects (e.g., linking collections with learning outcomes; usage studies)  
+- Collection strategies including new models for selection and managing liaison programs   
+- Government, special, and academic library perspectives in acquisitions and collection development   
+- Sustainable models for publishing/pricing   
+- Effective management of collections with constrained resources   
+- Vendor and publisher evaluation, including business skills to determine financial viability   
+- Diversity, inclusion, representation, and social justice in acquisitions and collections   
+- Negotiation skills and how to use them, including during library-vendor and library-publisher meetings   
+- Innovative vendor-librarian relationships and/or partnerships   
+- Staffing, training and development, and recruiting issues, challenges, successes (e.g., onboarding new acquisitions and/or collections staff)   
+- Using data visualization techniques to tell our stories (e.g., budget, collections, staff successes, etc.) - - Impacts of Open initiatives on acquisitions and collection development   
+- Data curation, including Big Data, and management and other new roles for subject and technical services librarians   
+- How Generative AI impacts our work 
 
 #### What makes the Acquisitions Institute a different kind of library conference?
 
