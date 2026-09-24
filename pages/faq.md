@@ -13,6 +13,7 @@ Join our mailing list to ensure you receive all the updates. The sign up is unde
 ### Conference FAQs
 
 #### **WHAT IS The Acquisitions Institute?**
+
 - Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge.
 - A three-day conference focusing on the methods and innovation of building and managing library collections.
 - A small (capped at 80 attendees), informal and stimulating gathering in a convivial and glorious Pacific Northwest setting.
@@ -33,13 +34,13 @@ Topics we and/or prior year's attendees are interested in include (in no particu
 - Staffing, training and development, and recruiting issues, challenges, successes (e.g., onboarding new acquisitions and/or collections staff)   
 - Using data visualization techniques to tell our stories (e.g., budget, collections, staff successes, etc.) - - Impacts of Open initiatives on acquisitions and collection development   
 - Data curation, including Big Data, and management and other new roles for subject and technical services librarians   
-- How Generative AI impacts our work 
+- How Generative AI impacts our work
 
 #### What makes the Acquisitions Institute a different kind of library conference?
 
 The very format of an “Institute” is relatively unique to libraries. Beyond this, the Acquisitions Institute is an intimate, innovative, single-track conference, different from any library conference you may have attended before. The Timberline Lodge is a warm but remote retreat that gives participants the opportunity to think expansively and consider the future of library collections in a community of peers. We are less a conference than a community, with presenters and attendees sharing ideas, approaches, and insights.
 
-### Costs FAQs
+### Costs, Lodging, Meals FAQs
 
 #### **What is the registration cost?**
 
