@@ -12,12 +12,12 @@ Join our mailing list to ensure you receive all the updates. The sign up is unde
 
 ### Conference FAQs
 
-#### WHAT IS The Acquisitions Institute?
+#### <details name="faq"><summary>WHAT IS The Acquisitions Institute?</summary>
 
-- Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge. 
+<p>- Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge. 
 - A three-day conference focusing on the methods and innovation of building and managing library collections. 
 - A small (capped at 80 attendees), informal and stimulating gathering in a convivial and glorious Pacific Northwest setting.
-- WHAT TOPICS are we looking for?
+- WHAT TOPICS are we looking for?</p></details>
 
 #### What makes the Acquisitions Institute a different kind of library conference?
 
@@ -103,14 +103,14 @@ If you are using air travel, you will want to fly into Portland International Ai
 One-way information, see below for information for return to the airport. Additionally, the Timberline Lodge has extensive information on ++[transportation to the Lodge](https://www.timberlinelodge.com/getting-here)++ itself, including directions. Prices and schedules are as of June 2026; please check transit websites for up-to-date cost and schedule information.
 
 - Two shuttle bus option: One transfer, reservation required, one departure per day around 3:30pm. Step 1: Take the ++[Central Oregon Breeze](https://cobreeze.betterez.com/cart/4f9ea3aa6cef572a6a00045b/reservation/620295e13f108b0e37cc5d32?0&productFamily=reservation&productId=620295e13f108b0e37cc5d32&type=oneway&channel=websales&departureDate=2026-06-07&from=4f9ea5266cef572a6a00046e&to=4fa3e9e32d5b0e28120000c1&fares=538f6cc1ae8ae5690400055a%3A1)++ to Government Camp. Step 2: Then, take the ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to the Timberline Lodge (~$45-60 one way for Breeze bus, plus ~$2 for the Mt. Hood Express). Or, coordinate a ride from conference participants from Government Camp to Timberline Lodge.
-- Public transportation option: Cheapest option, three transfers, multiple departures. Step 1: Take the MAX Light Rail ++[Red Line](https://trimet.org/schedules/maxredline.htm)++. Step 2: Transfer at Gateway to the ++[Blue Line](https://trimet.org/schedules/maxblueline.htm)++ to the Gresham Central Transit Center (~$3.00). Step 3: Transfer to the ++[SAM](https://www.ci.sandy.or.us/transit/page/routes-and-services)++ bus service to the Sandy Transit Center (~$1). Step 4: Transfer to the ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to the Timberline Lodge (~$2).
+- Public transportation option: Cheapest option, three transfers, multiple departures. Step 1: Take the MAX Light Rail ++[Red Line](https://trimet.org/schedules/maxredline.htm)++. Step 2: Transfer at Gateway to the ++[Blue Line](https://trimet.org/schedules/maxblueline.htm)++ to the Gresham Central Transit Center (~~$3.00). Step 3: Transfer to the ++[SAM](https://www.ci.sandy.or.us/transit/page/routes-and-services)++ bus service to the Sandy Transit Center (~~$1). Step 4: Transfer to the ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to the Timberline Lodge (~$2).
 
 ##### **From Timberline Lodge to PDX via shuttle or public transit:**
 
 One-way information, see above for information for transportation from the airport. Additionally, the Timberline Lodge has extensive information on ++[transportation to the Lodge](https://www.timberlinelodge.com/getting-here)++ itself, including directions. Prices and schedules are as of June 2026; please check transit websites for up-to-date cost and schedule information.
 
 - Two shuttle bus option: One transfer, reservation required, one airport arrival per day around 10:45 am. Step 1: Take the 9am ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to Government Camp. Step 2: Then, take the 9:30 am departure ++[Central Oregon Breeze](https://cobreeze.betterez.com/cart/4f9ea3aa6cef572a6a00045b/reservation/620295e13f108b0e37cc5d32?0&productFamily=reservation&productId=620295e13f108b0e37cc5d32&type=oneway&channel=websales&departureDate=2026-06-07&from=4f9ea5266cef572a6a00046e&to=4fa3e9e32d5b0e28120000c1&fares=538f6cc1ae8ae5690400055a%3A1)++ from Government Camp to PDX (~$45-60 one way for Breeze bus, plus ~$2 for the Mt. Hood Express).
-- Public transportation option: Cheapest option, three transfers, multiple departures. Step 1: Take the ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to the Sandy Transit Center (~$2). Step 2: Transfer to the ++[SAM](https://www.ci.sandy.or.us/transit/page/routes-and-services)++ bus service to the Gresham Central Transit Center (~$3.00). Step 3: Transfer to the ++[Blue Line](https://trimet.org/schedules/maxblueline.htm)++ to Gateway. Step 4: Transfer to the MAX Light Rail ++[Red Line](https://trimet.org/schedules/maxredline.htm)++ to PDX.
+- Public transportation option: Cheapest option, three transfers, multiple departures. Step 1: Take the ++[Mt. Hood Express](https://www.clackamas.us/mthoodexpress/expressroute)++ bus shuttle to the Sandy Transit Center (~~$2). Step 2: Transfer to the ++[SAM](https://www.ci.sandy.or.us/transit/page/routes-and-services)++ bus service to the Gresham Central Transit Center (~~$3.00). Step 3: Transfer to the ++[Blue Line](https://trimet.org/schedules/maxblueline.htm)++ to Gateway. Step 4: Transfer to the MAX Light Rail ++[Red Line](https://trimet.org/schedules/maxredline.htm)++ to PDX.
 
 #### **How do I get there if it snows?**
 
