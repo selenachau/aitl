@@ -16,7 +16,7 @@ Join our mailing list to ensure you receive all the updates. The sign up is unde
 <p>- Since 2000, the pre-eminent conference located in Western North America on acquisitions and collection development, held at the Timberline Lodge.</p> 
 <p>- A three-day conference focusing on the methods and innovation of building and managing library collections. </p>
 <p>- A small (capped at 80 attendees), informal and stimulating gathering in a convivial and glorious Pacific Northwest setting.</p></details>
-#### <details name="faq"><summary>WHAT TOPICS are we looking for?</summary>
+#### WHAT TOPICS are we looking for?<details name="what-topics">
 <p>Topics we and/or prior year's attendees are interested in include (in no particular order):</p>
 Assessment tools, methods, and projects (e.g., linking collections with learning outcomes; usage studies)<br/>
 Collection strategies including new models for selection and managing liaison programs <br/>
